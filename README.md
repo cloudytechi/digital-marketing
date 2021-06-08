@@ -2,6 +2,8 @@
 
 In this [professional digital marketing course](https://intellipaat.com/digital-marketing-course-certification/), you will master the core concepts, coupled with various tools and technologies, in Digital Marketing. These concepts include SEO auditing, pay per click, web analytics, social media strategy and planning, mobile advertising, content creation and marketing, elements of email marketing, Digital Marketing strategy, etc.
 
+![Digital Marketing](https://neilpatel.com/wp-content/uploads/2021/04/what-is-digital-marketing.png)
+
 ## What skills will you acquire in this Digital Marketing master’s program?
 In this course, you will learn the following:
 
